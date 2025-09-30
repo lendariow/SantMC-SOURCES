@@ -1,0 +1,13 @@
+name: SuperTrailsPro
+version: v1.2.17
+main: me.lendariow.supertrailspro.SuperTrails
+author: [lendariow]
+loadbefore: [SuperTrails]
+softdepend: [Citizens]
+commands:
+  trails:
+    description: null
+  supertrails:
+    description: null
+  trailsid:
+    description: null
